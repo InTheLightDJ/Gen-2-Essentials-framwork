@@ -398,8 +398,14 @@ MapPosition = 1,13,16
 BattleBack = city
 #-------------------------------
 [092]   # NEW BARK TOWN
+Name = NEW BARK TOWN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
 #-------------------------------
 [098]   # CHERRYGROVE CITY
+Name = CHERRYGROVE CITY
 #-------------------------------
 [103]   # ROUTE 30
 Name = ROUTE 30
