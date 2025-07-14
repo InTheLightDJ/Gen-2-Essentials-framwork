@@ -404,6 +404,13 @@ ShowArea = true
 Bicycle = true
 Weather = Rain,10
 #-------------------------------
+[097]   # ROUTE 29
+Name = ROUTE 29
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+#-------------------------------
 [098]   # CHERRYGROVE CITY
 Name = CHERRYGROVE CITY
 #-------------------------------

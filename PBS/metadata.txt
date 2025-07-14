@@ -3,12 +3,12 @@
 [0]
 StartMoney = 3000
 StartItemStorage = POTION
-Home = 3,7,5,8
+Home = 96,14,8,4
 StorageCreator = Bill
-WildBattleBGM = Battle wild
-TrainerBattleBGM = Battle trainer
-WildVictoryBGM = Battle victory wild
-TrainerVictoryBGM = Battle victory trainer
+WildBattleBGM = GSC 010 Battle! Wild Pokémon (Johto) (Day)
+TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
+WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
+TrainerVictoryBGM = GSC 019 Victory! (Trainer)
 SurfBGM = Surfing
 BicycleBGM = Bicycle
 #-------------------------------
