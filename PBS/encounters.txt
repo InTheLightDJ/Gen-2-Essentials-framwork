@@ -1,29 +1,12 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
-[002] # NEW BARK TOWN
-Water,2
-    60,TENTACOOL,14,19
-    30,MANTYKE,15,16
-    10,REMORAID,14,16
-OldRod
-    100,MAGIKARP,16,19
-GoodRod
-    60,BARBOACH,17,18
-    20,KRABBY,15,16
-    20,SHELLDER,16,19
-SuperRod
-    40,CHINCHOU,17,19
-    40,QWILFISH,16,19
-    15,CORSOLA,15,18
-    5,STARYU,15,17
-#-------------------------------
 [028] # EXIL FOREST
 Land,21
     20,CATERPIE,10
     20,SUNKERN,12
     20,WEEDLE,10
-    15,PIDGEY,12,14
     15,PIDGEY,10,14
+    15,PIDGEY,12,14
     5,KAKUNA,10
     5,METAPOD,10
 LandNight,21
@@ -53,6 +36,23 @@ PokeRadar,40
     50,BEEDRILL,15,18
     50,BUTTERFREE,15,18
 #-------------------------------
+[092] # NEW BARK TOWN
+Water,2
+    60,TENTACOOL,14,19
+    30,MANTYKE,15,16
+    10,REMORAID,14,16
+OldRod
+    100,MAGIKARP,16,19
+GoodRod
+    60,BARBOACH,17,18
+    20,KRABBY,15,16
+    20,SHELLDER,16,19
+SuperRod
+    40,CHINCHOU,17,19
+    40,QWILFISH,16,19
+    15,CORSOLA,15,18
+    5,STARYU,15,17
+#-------------------------------
 [097] # ROUTE 29
 Land,21
     55,PIDGEY,2,4
@@ -72,10 +72,10 @@ HeadbuttHigh
     80,SPEAROW,10
     20,AIPOM,10
 HeadbuttLow
-    10,LEDYBA,10
-    10,SPINARAK,10
-    10,EXEGGCUTE,10
-    10,PINECO,10
-    10,HERACROSS,10
     25,HOOTHOOT,10,12
     25,SPEAROW,10,12
+    10,EXEGGCUTE,10
+    10,HERACROSS,10
+    10,LEDYBA,10
+    10,PINECO,10
+    10,SPINARAK,10

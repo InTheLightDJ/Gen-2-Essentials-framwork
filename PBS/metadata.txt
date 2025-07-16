@@ -9,8 +9,8 @@ WildBattleBGM = GSC 010 Battle! Wild Pokémon (Johto) (Day)
 TrainerBattleBGM = GSC 018 Battle! Trainer (Johto)
 WildVictoryBGM = GSC 011 Victory! (Wild Pokémon)
 TrainerVictoryBGM = GSC 019 Victory! (Trainer)
-SurfBGM = Surfing
-BicycleBGM = Bicycle
+SurfBGM = GSC 068 Surf
+BicycleBGM = GSC 049 Bicycle
 #-------------------------------
 [1]
 TrainerType = POKEMONTRAINER_Leaf

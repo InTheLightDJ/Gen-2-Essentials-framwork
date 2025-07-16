@@ -413,6 +413,89 @@ Weather = Rain,10
 #-------------------------------
 [098]   # CHERRYGROVE CITY
 Name = CHERRYGROVE CITY
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,10
 #-------------------------------
 [103]   # ROUTE 30
 Name = ROUTE 30
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,10
+#-------------------------------
+[106]   # ROUTE 31
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+#-------------------------------
+[107]   # ROUTE 31
+Outdoor = true
+#-------------------------------
+[108]   # VIOLET CITY
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,10
+#-------------------------------
+[115]   # ROUTE 32
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,20
+#-------------------------------
+[117]   # ROUTE 33
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+#-------------------------------
+[118]   # AZALEA TOWN
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,10
+#-------------------------------
+[124]   # ROUTE 34
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,10
+#-------------------------------
+[127]   # GOLDENROD CITY
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Storm,10
+#-------------------------------
+[131]   # ROUTE 35
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,10
+#-------------------------------
+[132]   # ROUTE 36
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Rain,10
+#-------------------------------
+[151]   # ROUTE 46
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,20
+#-------------------------------
+[193]   # RUINS OF ALPH
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = Fog,10
+#-------------------------------
+[233]   # NATIONAL PARK
+Outdoor = true
+ShowArea = true
+Bicycle = true
+Weather = HeavyRain,25
